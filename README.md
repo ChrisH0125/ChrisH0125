@@ -8,6 +8,7 @@
 
 # 💻 Languages/Tools:
 ✔️ C++
+✔️ C#
 ✔️ C
 ✔️ Java
 ✔️ Python
