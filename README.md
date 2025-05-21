@@ -19,4 +19,10 @@
 ✔️ CSS
 ✔️ JavaScript
 ✔️ Unity
+✔️ Typescript
+✔️ JSX
+✔️ Node.js
+✔️ Next.js
+✔️ React
+✔️ Tailwind CSS
 
